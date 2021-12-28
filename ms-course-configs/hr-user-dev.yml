@@ -18,5 +18,5 @@ spring:
       ddl-auto: none
   datasource:
     username: postgres
-    url: jdbc:postgresql://localhost:5433/db_hr_user
+    url: jdbc:postgresql://localhost:5432/db_hr_user
     password: '1234567'
